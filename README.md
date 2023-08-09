@@ -1,5 +1,5 @@
 # MixMind  
-  
+   
 ![‎ 메인프로젝트  MixMind(최종) ‎001](https://github.com/hoon-bari/SKKU_KDT_2th_final_project/assets/121400054/c8e124ae-aa2d-4f64-90c1-cfdd8b9eb365)
 ![메인프로젝트  MixMind(최종) 002](https://github.com/Rndns/MixMind/assets/121400054/6a2ed3be-dd16-42c6-9273-7165c80bccc0)
 ![메인프로젝트  MixMind(최종) 003](https://github.com/Rndns/MixMind/assets/121400054/10401967-33d1-4178-bedc-9fe8f390990c)
